@@ -1,0 +1,7 @@
+#maindiv{
+    display: flex;
+background-image: url(car.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+background-position: 100vh;
+}

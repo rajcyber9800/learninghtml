@@ -1,0 +1,16 @@
+.container{
+background-color: blueviolet;
+height: 100vh;
+display: grid;
+grid-template-columns: repeat(4, auto);
+grid-template-rows: 200px 300px ;
+}
+.ch{
+background-color: aqua;
+color: rgb(30, 33, 35);
+border: 2px solid black;
+}
+.ch1{
+    grid-column-start: 1 ;
+    grid-column-end: 5;
+}

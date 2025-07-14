@@ -1,0 +1,31 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+
+}
+.nav ul{
+    display: flex;
+    justify-content: space-evenly;
+    text-align: center;
+    gap: 20px;
+    list-style: none;
+    font-size: 30px;
+    padding-top: 10px;
+    
+}
+.nav ul li a{
+    text-decoration: none;
+    color: black;
+}
+.car{
+    background-image: url(car.jpg);
+  background-position: center;
+    height: 980px;
+    background-repeat: no-repeat;
+    box-sizing: border-box;
+    background-size: cover;
+    bac
+    
+
+}
